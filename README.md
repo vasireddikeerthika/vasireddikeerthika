@@ -10,12 +10,11 @@
 
 ## 🚀 Featured Projects
 
-📞 [Call Center Performance Dashboard](https://github.com/vasireddikeerthika/call-center-performance-dashboard) — Interactive Excel dashboard analyzing call volume, revenue, and rep performance with Pivot Tables & Slicers
+- 📊 **[Retail Customer Segmentation & High-Value Customer Classification](https://github.com/vasireddikeerthika/Retail-Customer-Segmentation)** — Machine learning project using K-Means clustering and Random Forest to segment customers and identify high-value shoppers.
 
-🤖 **Retail Customer Segmentation & High-Value Customer Classification** — Machine learning project using K-Means clustering and Random Forest to segment customers and identify high-value shoppers
+- 🚆 **[Journey — Dynamic Railway ETA Prediction](https://github.com/vasireddikeerthika/Journey)** — ML-powered railway application using LightGBM for dynamic train ETA prediction with Next.js and Supabase.
 
-🚆 **Journey — Dynamic Railway ETA Prediction** — ML-powered railway application using LightGBM for train delay prediction with Next.js and Supabase
-
+- 📞 **[Call Center Performance Dashboard](https://github.com/vasireddikeerthika/call-center-performance-dashboard)** — Interactive Excel dashboard analyzing call volume, revenue, and representative performance using Pivot Tables and Slicers.
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
