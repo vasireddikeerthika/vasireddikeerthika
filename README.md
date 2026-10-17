@@ -2,19 +2,32 @@
 
 <img src="banner.svg" alt="Keerthika Sai Vasireddi" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1200&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi!+I'm+Keerthika+%E2%9C%A8;I+build+ML+apps+with+Python;Learning+Machine+Learning+%26+AI" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1200&color=D8973C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Keerthika+%E2%9C%A8;I+build+ML+apps+with+Python;Learning+Machine+Learning+%26+AI" alt="typing" />
 
 </div>
 
 ## 👋 About Me
 
-- 🎓 B.Tech CSE student at **ANITS**, pursuing the **IIT Madras BS in Data Science** alongside
+<table>
+<tr>
+<td width="65%">
+
+- 🎓 B.Tech CSE student at **ANITS**
 - 🤖 Passionate about **Machine Learning & AI**, learning something new every week
 - 🚆 Built **Journey**, an ML-powered railway ETA predictor for Smart India Hackathon 2026
 - 🚗 Built **AutoWorth**, a used-car price predictor with a live Streamlit app
 - 🗄️ Working with **Supabase & PostgreSQL** for backend and data
 - 💡 I love turning raw data into clear insights and useful solutions
 - 📫 Reach me at **vasireddikeerthika9@gmail.com**
+
+</td>
+<td width="35%" align="center">
+
+<img src="avatar.png" alt="pixel art avatar" width="230" />
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -50,15 +63,5 @@ Interactive Excel dashboard with PivotTables, slicers and KPI tracking.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=vasireddikeerthika&theme=radical&hide_border=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&theme=radical&hide_border=true&layout=compact" />
-</p>
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasireddikeerthika9@gmail.com)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasireddikeerthika&color=ff6b9d&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=vasireddikeerthika&show_icons=true&hide_border=true&bg_color=640D14&title_color=F3E6BD&text_color=FD9BB7&icon_color=D8973C" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&hide_border=true&layout=
