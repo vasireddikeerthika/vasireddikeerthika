@@ -41,7 +41,7 @@ LightGBM model predicting station-level train delays, with a Next.js + Supabase 
 Random Forest model (R² 0.91) with a 5-tab Streamlit app for analysis and live price estimates.
 
 [![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/autoworth)
-[![Live](https://img.shields.io/badge/%E2%96%B6-Live_App-D8973C?style=for-the-badge&labelColor=640D14)](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[![Live](https://img.shields.io/badge/%E2%96%B6-Live_App-D8973C?style=for-the-badge&labelColor=640D14)](https://autoworth.streamlit.app)
 
 ### 📊 Retail Customer Segmentation
 K-Means clustering and a Random Forest classifier to segment customers and flag high-value shoppers.
@@ -52,6 +52,7 @@ K-Means clustering and a Random Forest classifier to segment customers and flag 
 Interactive Excel dashboard with PivotTables, slicers and KPI tracking.
 
 [![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/call-center-performance-dashboard)
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -73,4 +74,14 @@ Interactive Excel dashboard with PivotTables, slicers and KPI tracking.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=vasireddikeerthika&show_icons=true&hide_border=true&bg_color=640D14&title_color=F3E6BD&text_color=FD9BB7&icon_color=D8973C" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&hide_border=true&layout=
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&hide_border=true&layout=compact&bg_color=640D14&title_color=F3E6BD&text_color=FD9BB7" />
+</p>
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasireddikeerthika9@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasireddikeerthika&color=AD2831&style=flat-square&label=PROFILE+VIEWS" />
+</p>
