@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Keerthika%20Sai%20Vasireddi&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20IIT%20Madras%20BS%20%7C%20Machine%20Learning%20%26%20AI&descSize=18&descAlignY=70" alt="banner" />
+<img src="banner.svg" alt="Keerthika Sai Vasireddi" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+ML+apps+with+Python+%26+Streamlit;Learning+Machine+Learning+%26+AI;Turning+raw+data+into+clear+insights" alt="typing" />
 
@@ -11,7 +11,7 @@
 ```js
 const keerthika = {
   role: "CSE Undergraduate | IIT Madras BS (Data Science)",
-  location: "Vizianagaram, India 🇮🇳",
+  location: "Vizianagaram, India",
 
   building: [
     "ML-powered railway ETA prediction (Journey)",
@@ -37,7 +37,6 @@ const keerthika = {
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasireddikeerthika9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasireddikeerthika)
 
 ### 🚀 Featured Projects
 
@@ -74,20 +73,8 @@ const keerthika = {
   <img src="https://streak-stats.demolab.com/?user=vasireddikeerthika&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasireddikeerthika&theme=tokyo-night&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasireddikeerthika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vasireddikeerthika&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
