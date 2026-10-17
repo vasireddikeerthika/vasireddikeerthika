@@ -1,45 +1,93 @@
-## Hi, I'm Keerthika Sai Vasireddi ✨
+<div align="center">
 
-- 📊 Computer Science student interested in Data Analytics & Machine Learning</br>
-- 🐍 Currently learning Python, SQL and Machine Learning</br>
-- 📈 Skilled in Excel and Power BI</br>
-- 🤖 Exploring ML models and data-driven solutions</br>
-- 🗄️ Working with Supabase and PostgreSQL for backend/data management</br>
-- 💡 I enjoy turning raw data into clear insights and useful solutions</br>
-- 📫 Reach me at vasireddikeerthika9@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Keerthika%20Sai%20Vasireddi&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20IIT%20Madras%20BS%20%7C%20Machine%20Learning%20%26%20AI&descSize=18&descAlignY=70" alt="banner" />
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+ML+apps+with+Python+%26+Streamlit;Learning+Machine+Learning+%26+AI;Turning+raw+data+into+clear+insights" alt="typing" />
 
-- 📊 **[Retail Customer Segmentation & High-Value Customer Classification](https://github.com/vasireddikeerthika/Retail-Customer-Segmentation)** — Machine learning project using K-Means clustering and Random Forest to segment customers and identify high-value shoppers.
+</div>
 
-- 🚆 **[Journey — Dynamic Railway ETA Prediction](https://github.com/vasireddikeerthika/Journey)** — ML-powered railway application using LightGBM for dynamic train ETA prediction with Next.js and Supabase.
+### 🎯 About Me
 
-- 📞 **[Call Center Performance Dashboard](https://github.com/vasireddikeerthika/call-center-performance-dashboard)** — Interactive Excel dashboard analyzing call volume, revenue, and representative performance using Pivot Tables and Slicers.
-## 🌐 Socials:
+```js
+const keerthika = {
+  role: "CSE Undergraduate | IIT Madras BS (Data Science)",
+  location: "Vizianagaram, India 🇮🇳",
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
+  building: [
+    "ML-powered railway ETA prediction (Journey)",
+    "AutoWorth: used car price prediction app"
+  ],
 
-# 💻 Tech Stack:
+  learning: [
+    "Machine Learning",
+    "AI",
+    "Gradient Boosting / XGBoost"
+  ],
 
+  tech: {
+    languages: ["Python", "SQL"],
+    ml: ["scikit-learn", "LightGBM", "Pandas", "NumPy"],
+    apps: ["Streamlit", "Plotly", "Supabase", "PostgreSQL"],
+    analytics: ["Excel", "Power BI"]
+  }
+};
+```
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasireddi-keerthika)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasireddikeerthika9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasireddikeerthika)
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| 🚆 **[Journey](https://github.com/vasireddikeerthika/Journey)** · [Live](https://journey-ijym.vercel.app) | Dynamic railway ETA prediction with LightGBM, Next.js and Supabase (Smart India Hackathon 2026) |
+| 🚗 **[AutoWorth](https://github.com/vasireddikeerthika/autoworth)** · [Live](PASTE-YOUR-STREAMLIT-LINK-HERE) | Used car price prediction with Random Forest (R² 0.91) and a 5-tab Streamlit app |
+| 📊 **[Retail Customer Segmentation](https://github.com/vasireddikeerthika/Retail-Customer-Segmentation)** | K-Means clustering and Random Forest to segment customers and flag high-value shoppers |
+| 📞 **[Call Center Dashboard](https://github.com/vasireddikeerthika/call-center-performance-dashboard)** | Interactive Excel dashboard with PivotTables and slicers |
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,postgres,supabase,vercel,git,github,vscode&theme=dark" alt="tech icons" />
+</p>
+
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=vasireddikeerthika&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=vasireddikeerthika&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=vasireddikeerthika&theme=catppuccin-mocha&hide_border=false)<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vasireddikeerthika&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vasireddikeerthika&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasireddikeerthika&theme=tokyo-night&hide_border=true" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vasireddikeerthika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</p>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=vasireddikeerthika&icon=0&color=10)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasireddikeerthika&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
