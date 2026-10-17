@@ -31,18 +31,27 @@
 
 ## 🚀 Featured Projects
 
-### 🚆 [Journey: Dynamic Railway ETA Prediction](https://github.com/vasireddikeerthika/Journey)
-LightGBM model predicting station-level train delays, with a Next.js + Supabase app in English, Telugu and Hindi. **[Live demo](https://journey-ijym.vercel.app)**
+### 🚆 Journey: Dynamic Railway ETA Prediction
+LightGBM model predicting station-level train delays, with a Next.js + Supabase app in English, Telugu and Hindi.
 
-### 🚗 [AutoWorth: Used Car Price Prediction](https://github.com/vasireddikeerthika/autoworth)
-Random Forest model (R² 0.91) with a 5-tab Streamlit app for analysis and live price estimates. **[Live app](PASTE-YOUR-STREAMLIT-LINK-HERE)**
+[![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/Journey)
+[![Live](https://img.shields.io/badge/%E2%96%B6-Live_Demo-D8973C?style=for-the-badge&labelColor=640D14)](https://journey-ijym.vercel.app)
 
-### 📊 [Retail Customer Segmentation](https://github.com/vasireddikeerthika/Retail-Customer-Segmentation)
+### 🚗 AutoWorth: Used Car Price Prediction
+Random Forest model (R² 0.91) with a 5-tab Streamlit app for analysis and live price estimates.
+
+[![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/autoworth)
+[![Live](https://img.shields.io/badge/%E2%96%B6-Live_App-D8973C?style=for-the-badge&labelColor=640D14)](PASTE-YOUR-STREAMLIT-LINK-HERE)
+
+### 📊 Retail Customer Segmentation
 K-Means clustering and a Random Forest classifier to segment customers and flag high-value shoppers.
 
-### 📞 [Call Center Performance Dashboard](https://github.com/vasireddikeerthika/call-center-performance-dashboard)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/Retail-Customer-Segmentation)
+
+### 📞 Call Center Performance Dashboard
 Interactive Excel dashboard with PivotTables, slicers and KPI tracking.
 
+[![Code](https://img.shields.io/badge/GitHub-View_Code-AD2831?style=for-the-badge&logo=github&logoColor=F3E6BD)](https://github.com/vasireddikeerthika/call-center-performance-dashboard)
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
