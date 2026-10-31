@@ -23,7 +23,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="avatark.png" alt="pixel art avatar" width="230" />
+<img src="avatarke.png" alt="pixel art avatar" width="230" />
 
 </td>
 </tr>
