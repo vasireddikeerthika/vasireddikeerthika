@@ -25,6 +25,7 @@
 
 Built **Journey**, an ML-powered railway ETA predictor, for **Smart India Hackathon 2026**.
 Learning something new in ML & AI every week.
+
 📫 **Reach me:** [vasireddikeerthika9@gmail.com](mailto:vasireddikeerthika9@gmail.com)
 
 </td>
