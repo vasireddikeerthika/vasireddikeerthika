@@ -21,15 +21,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-```python
-class Keerthika:
-    role     = "B.Tech CSE student @ ANITS"
-    focus    = ["Machine Learning", "AI"]
-    building = ["Journey", "AutoWorth"]
-    backend  = ["Supabase", "PostgreSQL"]
-    loves    = "turning raw data into clear insights"
-    contact  = "vasireddikeerthika9@gmail.com"
-```
+<img src="about.svg" alt="About Keerthika" width="100%" />
 
 Built **Journey**, an ML-powered railway ETA predictor, for **Smart India Hackathon 2026**.
 Learning something new in ML & AI every week.
@@ -37,13 +29,11 @@ Learning something new in ML & AI every week.
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="avatarke.png" alt="pixel art avatar" width="230" />
+<img src="avatark.png" alt="pixel art avatar" width="230" />
 
 </td>
 </tr>
 </table>
-
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## Projects
 
